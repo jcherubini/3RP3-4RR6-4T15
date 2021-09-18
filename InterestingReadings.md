@@ -1,4 +1,4 @@
-# Interesting Readings
+# Interesting Readings :books: 📊
 
 Here are some interesting readings that are related to the vascular dynamics lab, endothelial function, and sleep deprivation and endothelial 
 function. These readings may serve as a means of familiarizing yourself to some of the measures that we take in the VDL. Moreover, you might 
