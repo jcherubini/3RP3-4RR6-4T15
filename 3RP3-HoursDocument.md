@@ -9,7 +9,7 @@ approval.
 | ---- | ---- | ---- |
 | Sept 15 | 2 hours | Stacking FMD images |
 | Sept 18 | 1 hour | Attended weekly lab meeting |
-| Sept 21 | 1.5 hours | Attended journal club |
+| Sept 21 | 1.5 hours | Participated in journal club |
 | Sept 25 | 3 hours | Attended data collection sessions |
 
 Download the follwoing file to keep track of your progress:
