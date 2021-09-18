@@ -1,6 +1,6 @@
 # Fall 2021 Meeting Schedule
 
-Our meetings will occur on a biweekly basis every Monday, with any additional meetings scheduled as needed. 
+Our meetings will occur on a biweekly basis every Monday, with any additional meetings scheduled as needed. All meetings will take place on MS Teams.
 
 | Completed | Date | Milestone | Notes |
 | :----: | ---- | ---- | ---- |
