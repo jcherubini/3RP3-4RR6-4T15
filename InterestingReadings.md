@@ -2,7 +2,7 @@
 
 Here are some interesting readings that are related to the vascular dynamics lab, endothelial function, and sleep deprivation and endothelial 
 function. These readings may serve as a means of familiarizing yourself to some of the measures that we take in the VDL. Moreover, you might 
-be inspired by some of the works below, and adapt your project to replicate, expand upon, or challenge some of the published findings and theories. 
+be inspired by some of the works below, and adapt your project to replicate, expand upon, or challenge some of these published findings and theories. 
 
 ### Endothelial function and vascular dynamics
 
