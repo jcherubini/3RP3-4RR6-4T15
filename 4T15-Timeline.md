@@ -6,7 +6,7 @@ subjected to change based on your preferences and the learning goals that you ha
 customize your timeline!
 
 <p align="center">
-  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/3rp3-4rr6-4t15-patch2/Figures/4t15-timeline.png" width="1100" height="500">
+  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/main/Figures/4t15-timeline.png" width="1100" height="500">
 </p>
 <p align="center">
 </p>
