@@ -5,7 +5,7 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | Completed | Date | Time | Milestone | Notes |
 | :----: | ---- | ---- | ---- | ---- |
 | ✅ | Sept 23 | 3:00PM - 3:45PM | Topic submission and description due Sept 27 | Discuss progress and any changes |
-| :x: | Sept 27 | 4:00PM - 4:45PM | Outline and reference list discussion | Assignment due Oct 17 |
+| ✅: | Sept 27 | 4:00PM - 4:45PM | Outline and reference list discussion | Assignment due Oct 17 |
 | :x: | Oct 11 | 4:00PM - 4:45PM | Outline and reference list discussion: Pt. 2 | Expand on discussion from Sept 27 and work out any remaining issues |
 | :x: | Oct 25 | 4:00PM - 4:45PM | Literature review: Initial draft | Review planning and progress for literature review draft 1
 | :x: | Nov 8 | 4:00PM - 4:45PM | Literature review: Pt. 2 | Feedback for literature review |
