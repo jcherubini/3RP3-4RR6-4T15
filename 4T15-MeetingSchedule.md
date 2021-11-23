@@ -9,6 +9,6 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | ✅ | Oct 12 | 10:00AM - 11:00AM | Outline and reference list discussion: Pt. 2 | Expand on discussion from Sept 27 and work out any remaining issues; Briefly discuss postgraduate programs |
 | ✅ | Oct 25 | 4:00PM - 4:45PM | Literature review: Initial draft | Review planning and progress for literature review draft 1
 | ✅ | Nov 8 | 4:00PM - 4:45PM | Literature review: Pt. 2 | Feedback for literature review |
-| :x: | Nov 22 | 4:00PM - 4:45PM | Literature review: Feedback and revisions | Discuss feedback, strengths, and areas for editing | 
+| :x: | Nov 23 | 12:30PM - 1:10PM | Literature review: Feedback and revisions | Discuss feedback, strengths, and areas for editing | 
 | :x: | Dec 6 | 4:00PM - 4:45PM | Literature review: Pt. 3 | Last-minute check-in for the literature review | 
 | :x: | Dec 20 | 4:00PM - 4:45PM | Lab mentor evaluation discussion | Optional meeting |
