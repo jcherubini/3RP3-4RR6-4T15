@@ -28,15 +28,17 @@ be inspired by some of the works below, and adapt your project to replicate, exp
 
 5.	Calvin AD, Covassin N, Kremers WK, Adachi T, Macedo P, Albuquerque FN, Bukartyk J, Davison DE, Levine JA, Singh P, Wang S. **Experimental sleep restriction causes endothelial dysfunction in healthy humans.** Journal of the American Heart Association. 2014 Nov 25;3(6):e001143.
 
-### Sympathetic nervous system, sleep deprivation, and cardiovascular / endothelial function (systems level)
+### Autonomic nervous system and cardiovascular / endothelial function (systems level)
 
-1.	Tobaldini E, Costantino G, Solbiati M, Cogliati C, Kara T, Nobili L, Montano N. **Sleep, sleep deprivation, autonomic nervous system and cardiovascular diseases.** Neuroscience & Biobehavioral Reviews. 2017 Mar 1;74:321-9.
+1. Al-Khazraji BK, Shoemaker JK. **The human cortical autonomic network and volitional exercise in health and disease.** Applied Physiology, Nutrition, and Metabolism. 2018;43(11):1122-30.
 
-2.	Irwin MR, Olmstead R, Carroll JE. **Sleep disturbance, sleep duration, and inflammation: a systematic review and meta-analysis of cohort studies and experimental sleep deprivation.** Biological psychiatry. 2016 Jul 1;80(1):40-52.
+2.	Tobaldini E, Costantino G, Solbiati M, Cogliati C, Kara T, Nobili L, Montano N. **Sleep, sleep deprivation, autonomic nervous system and cardiovascular diseases.** Neuroscience & Biobehavioral Reviews. 2017 Mar 1;74:321-9.
 
-3.	Tobaldini E, Fiorelli EM, Solbiati M, Costantino G, Nobili L, Montano N. **Short sleep duration and cardiometabolic risk: from pathophysiology to clinical evidence.** Nature Reviews Cardiology. 2019 Apr;16(4):213-24.
+3.	Irwin MR, Olmstead R, Carroll JE. **Sleep disturbance, sleep duration, and inflammation: a systematic review and meta-analysis of cohort studies and experimental sleep deprivation.** Biological psychiatry. 2016 Jul 1;80(1):40-52.
 
-### Sympathetic nervous system and cardiovascular / endothelial function (cellular level)
+4.	Tobaldini E, Fiorelli EM, Solbiati M, Costantino G, Nobili L, Montano N. **Short sleep duration and cardiometabolic risk: from pathophysiology to clinical evidence.** Nature Reviews Cardiology. 2019 Apr;16(4):213-24.
+
+### Autonomic nervous system and cardiovascular / endothelial function (cellular level)
 
 1.	Behringer EJ, Segal SS. **Spreading the signal for vasodilatation: implications for skeletal muscle blood flow control and the effects of ageing.** The Journal of physiology. 2012 Dec;590(24):6277-84.
 
