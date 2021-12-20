@@ -10,4 +10,4 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | ✅ | Nov 10 | 3:00PM - 3:45PM | Updates | Discussed proposal and any updates |
 | ✅ | Nov 17 | 3:00PM - 3:30PM | Updates and 3MT discussion | Review 3MT presentation and discuss feedback; review stacking procedures |
 | ✅ | Nov 22 | 2:45PM - 3:15PM | Final paper: Feedback and revisions | Discuss feedback related to final proposal | 
-| :x: | Dec 6 | 3:00PM - 3:45PM | Final performance evaluation | Updates and any final feedback | 
+| ✅ | Dec 6 | 3:00PM - 3:45PM | Final performance evaluation | Updates and any final feedback | 
