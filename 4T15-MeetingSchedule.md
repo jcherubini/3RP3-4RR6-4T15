@@ -10,5 +10,5 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | ✅ | Oct 25 | 4:00PM - 4:45PM | Literature review: Initial draft | Review planning and progress for literature review draft 1
 | ✅ | Nov 8 | 4:00PM - 4:45PM | Literature review: Pt. 2 | Feedback for literature review |
 | ✅ | Nov 23 | 12:30PM - 1:10PM | Literature review: Feedback and revisions | Discuss feedback, strengths, and areas for editing; Also discuss preliminary OEP plans | 
-| :x: | Dec 6 | 4:00PM - 4:45PM | Literature review: Pt. 3 | Last-minute check-in for the literature review; Intro to study design and statistics relevant to the project | 
-| :x: | Dec 20 | 4:00PM - 4:45PM | Lab mentor evaluation discussion | Optional meeting |
+| ✅ | Dec 6 | 4:00PM - 4:45PM | Literature review: Pt. 3 | Last-minute check-in for the literature review; Intro to study design and statistics relevant to the project | 
+| ✅ | Dec 20 | 4:00PM - 4:45PM | Lab mentor evaluation discussion | Optional meeting |
