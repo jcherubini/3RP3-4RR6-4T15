@@ -11,3 +11,14 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | ✅ | Nov 17 | 3:00PM - 3:30PM | Updates and 3MT discussion | Review 3MT presentation and discuss feedback; review stacking procedures |
 | ✅ | Nov 22 | 2:45PM - 3:15PM | Final paper: Feedback and revisions | Discuss feedback related to final proposal | 
 | ✅ | Dec 6 | 3:00PM - 3:45PM | Final performance evaluation | Updates and any final feedback | 
+
+# 3RP3 Winter 2022 Meeting Schedule
+| Completed | Date | Time | Milestone | Notes |
+| :----: | ---- | ---- | ---- | ---- |
+| :white_check_mark: | Jan 7 | 1:00PM - 2:00PM | Introduction | Discusse introductory materials |
+| :x: |  |  |  |  |
+| :x: |  |  |  |  |
+| :x: |  |  |  |  |
+| :x: |  |  |  |  |
+| :x: |  |  |  |  | 
+| :x: |  |  |  |  | 
