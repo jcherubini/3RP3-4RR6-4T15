@@ -15,10 +15,10 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 # 3RP3 Winter 2022 Meeting Schedule
 | Completed | Date | Time | Milestone | Notes |
 | :----: | ---- | ---- | ---- | ---- |
-| :white_check_mark: | Jan 7 | 1:00PM - 2:00PM | Introduction | Discusse introductory materials |
-| :x: |  |  |  |  |
-| :x: |  |  |  |  |
-| :x: |  |  |  |  |
-| :x: |  |  |  |  |
-| :x: |  |  |  |  | 
-| :x: |  |  |  |  | 
+| :white_check_mark: | Jan 7 | 1:00PM - 2:00PM | Introduction | Discussed introductory materials |
+| :x: | Jan 12 | 3:00PM - 4:00PM | Learning objectives and problem statement |  |
+| :x: | Jan 26 | 3:00PM - 4:00PM | Mid-term Reflection |  |
+| :x: | Feb 9 | 3:00PM - 4:00PM | Discussed proposal progress |  |
+| :x: | Feb 23 | 3:00PM - 4:00PM | Updates |  |
+| :x: | March 9 | 3:00PM - 4:00PM | Updates and 3MT discussion |  | 
+| :x: | March 23 | 3:00PM - 4:00PM | Final paper: Feedback and revisions |  | 
