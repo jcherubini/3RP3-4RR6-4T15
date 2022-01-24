@@ -16,8 +16,8 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | Completed | Date | Time | Milestone | Notes |
 | :----: | ---- | ---- | ---- | ---- |
 | :white_check_mark: | Jan 7 | 1:00PM - 2:00PM | Introduction | Discussed introductory materials |
-| :x: | Jan 12 | 3:00PM - 4:00PM | Learning objectives and problem statement |  |
-| :x: | Jan 26 | 3:00PM - 4:00PM | Mid-term Reflection |  |
+| :x: | Jan 12 | 3:00PM - 4:00PM | Learning objectives and problem statement | Introduction to the laboratory |
+| :x: | Jan 26 | 3:00PM - 4:00PM | Objectives and problem statement pt. 2 |  |
 | :x: | Feb 9 | 3:00PM - 4:00PM | Discussed proposal progress |  |
 | :x: | Feb 23 | 3:00PM - 4:00PM | Updates |  |
 | :x: | March 9 | 3:00PM - 4:00PM | Updates and 3MT discussion |  | 
