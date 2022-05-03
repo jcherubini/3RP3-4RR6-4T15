@@ -1,19 +1,9 @@
 # Biochem 4T15 Undergraduate Thesis Timeline :calendar:
 
-This is a sample timeline for your progress as a thesis student in the VDL. Included in the timeline are key milestones to achieve throughout the academic year.
-There are also some optional (but encouraged) conferences for you to consider presenting at and attending. As a sample timeline, the dates and milestones are
-subjected to change based on your preferences and the learning goals that you have defined as a thesis student. You're encouraged to work with your supervisor to
-customize your timeline!
-
-<p align="center">
-  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/main/Figures/4t15-timeline.png" width="1100" height="500">
-</p>
-<p align="center">
-</p>
-
+The timeline has yet to be created
 -------
 
-:pushpin: The code to reproduce and amend the timeline is posted below. Please work with your supervisor to include any other intersting dates, events, or milestones that 
+:pushpin: The code to amend the timeline that is to be created is posted below. Please work with your supervisor to include any other intersting dates, events, or milestones that 
 you would like to strive towards.
 
 ```
