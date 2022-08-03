@@ -1,6 +1,11 @@
 # Biochem 4T15 Undergraduate Thesis Timeline :calendar:
 
-The timeline has yet to be created
+<p align="center">
+  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/main/Figures/4RR6Timeline-2022-2023.pdf" width="750" height="250">
+</p>
+<p align="center">
+  <em>Figure 1: Sample thesis project timeline</em>
+</p>
 -------
 
 :pushpin: The code to amend the timeline that is to be created is posted below. Please work with your supervisor to include any other intersting dates, events, or milestones that 
