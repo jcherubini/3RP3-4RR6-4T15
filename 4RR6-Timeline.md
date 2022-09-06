@@ -1,7 +1,7 @@
 # Kinesiology 4RR6 Undergraduate Thesis Timeline :calendar:
 
 <p align="center">
-  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/2022/23-Draft/Figures/4RR6Timeline.png">
+  <img src="https://github.com/jcherubini/3RP3-4RR6-4T15/blob/main/Figures/4RR6Timeline.png">
 </p>
 <p align="center">
   <em>Figure 1: Sample thesis project timeline</em>
