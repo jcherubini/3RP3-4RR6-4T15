@@ -4,8 +4,8 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 
 | Completed | Date | Time | Milestone | Notes |
 | :----: | ---- | ---- | ---- | ---- |
-| ❌ | TBD | TBD | Topic submission and description |  |
-| ❌ | TBD | TBD | Outline and reference list discussion |  |
+| ✅ | Wednesday Sept 7 | 10:30AM | Introduction and administrative meeting | Discussed overview of Kin 4RR9 course and administration |
+| ❌ | Wednesday Sept 21 | 10:30AM | Brief study question & protocol |  |
 | ❌ | TBD | TBD | Outline and reference list discussion: Pt. 2 |  |
 | ❌ | TBD | TBD | Literature review: Initial draft |  |
 | ❌ | TBD | TBD | Literature review: Pt. 2 |  |
