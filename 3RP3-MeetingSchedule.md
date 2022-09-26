@@ -4,8 +4,8 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 
 | Completed | Date | Time | Milestone | Notes |
 | :----: | ---- | ---- | ---- | ---- |
-| ❌ | TBD | TBD | Learning objectives and problem statement |  |
-| ❌ | TBD | TBD | Mid-term Reflection |  |
+| ✅ | Wednesday September 14 | 1:30PM | Introduction materials | Reviewed some lab introductory materials; discussed 3RP3 deliverables |
+| ❌ | Wednesday September 28 | 1:30PM | Learning goals recap and problem statement development |  |
 | ❌ | TBD | TBD | Discussed proposal progress |  |
 | ❌ | TBD | TBD | Updates |  |
 | ❌ | TBD | TBD | Updates and 3MT discussion |  |
