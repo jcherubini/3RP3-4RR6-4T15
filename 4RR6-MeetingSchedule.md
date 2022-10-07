@@ -6,8 +6,8 @@ Our meetings will occur on a biweekly basis every Monday, with any additional me
 | :----: | ---- | ---- | ---- | ---- |
 | ✅ | Wednesday Sept 7 | 10:30AM | Introduction and administrative meeting | Discussed overview of Kin 4RR9 course and administration |
 | ✅ | Wednesday Sept 21 | 10:30AM | Brief study question & protocol | Discussed presentation material for lab meeting |
-| ❌ | Wednesday October 5 | 10:30AM | Problem statement development |  |
-| ❌ | TBD | TBD | Literature review: Initial draft |  |
+| ✅ | Wednesday October 7 | 10:30AM | Problem statement development |  |
+| ❌ | Wednesday October 19 | 10:30AM | Ethics submission |  |
 | ❌ | TBD | TBD | Literature review: Pt. 2 |  |
 | ❌ | TBD | TBD | Literature review: Feedback and revisions |  | 
 | ❌ | TBD | TBD | Literature review: Pt. 3 |  | 
